@@ -5,6 +5,7 @@ defmodule ExCodeship.Mixfile do
     [app: :ex_codeship,
      version: "1.0.0",
      elixir: "~> 1.2",
+     description: description,
      package: package,
      deps: deps]
   end
